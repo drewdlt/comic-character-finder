@@ -1,5 +1,4 @@
 function SuperheroDetails({ character }) {
-    // Add a comment
     
     return (
         <div>
