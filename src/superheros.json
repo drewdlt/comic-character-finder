@@ -133,5 +133,27 @@
         "Unibeam",
         "Missle Systems",
         "Nano-Tech Armor"
+    ]},
+    
+    {
+    "id": 6,
+    "name": "Batman",
+    "img": "src/assets/Batman.png",
+    "real_name": "Bruce Wayne",
+    "description": "Behind the mask is Bruce Wayne, a billionaire philanthropist and owner of Wayne Enterprises. After witnessing the murder of his parents as a child, Bruce dedicated his life to fighting crime in Gotham City. Unlike most superheroes, Batman has no superpowers—he relies on peak physical conditioning, masterful detective skills, advanced technology, and martial arts training. Known as the Dark Knight or World’s Greatest Detective, Batman strikes fear into the hearts of criminals and often works alongside allies like Robin, Batgirl, and the Justice League.",
+    "info": {
+        "publisher": "DC",
+        "creators": ["Bob Kane", "Bill Finger"],
+        "created": "May 1939",
+        "first_appearance": "Detective Comics #27",
+        "first_appearance_link": "https://www.dc.com/comics/detective-comics-2011/detective-comics-27",
+        "total_appearances": 8436
+    },
+    "powers": [
+        "Exceptional Martial Artist",
+        "Combat Strategy",
+        "Inexhaustible Wealth",
+        "Brilliant Detective Skills",
+        "Advanced Technology"
     ]}
 ]

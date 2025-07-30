@@ -26,7 +26,6 @@ function SearchBar() {
 
     function findHero() {
         setCharacter(characters.find(hero => hero.name.replace(/-|\s/, '').toLowerCase().includes(input.replace(/-|\s/, '').toLowerCase())));
-        console.log(character);
         setInput('');
     }
 
