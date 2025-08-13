@@ -5,14 +5,3 @@ body {
   font-family: "Oswald", sans-serif;
   font-style: normal;
 }
-
-.publisher-logo {
-  height: 33px;
-  width: auto;
-}
-
-@media (max-width: 425px) {
-  .center-on-mobile {
-    text-align: center !important;
-  }
-}
