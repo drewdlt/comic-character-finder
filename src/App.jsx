@@ -1,5 +1,5 @@
 import SearchBar from "./SearchBar/SearchBar"
-import Navbar from "./NavBar/Navbar"
+import Navbar from "./components/Navbar"
 
 function App() {
 
