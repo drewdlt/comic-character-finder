@@ -1,13 +1,14 @@
 import { Routes, Route } from "react-router"
-import SearchBar from "./SearchBar/SearchBar"
 import HomePage from "./pages/HomePage"
 import WritersPage from "./pages/WritersPage"
+import CharacterLookUpPage from "./pages/ChracterLookUpPage"
 
 function App() {
 
   return (
     <Routes>
       <Route index element={<HomePage />} />
+      <Route path="lookup" element={<CharacterLookUpPage />} />
       <Route path="writers" element={<WritersPage />} />
     </Routes>
   )
