@@ -38,7 +38,7 @@ function SearchBar() {
     <>
       <div className="mx-auto mt-4 flex w-3/4 justify-center text-center">
         <input
-          className="w-2/3 border-b-2 p-2 font-semibold tracking-wider text-2xl placeholder:text-xl focus:outline-0"
+          className="w-3/4 border-b-2 p-2 font-semibold tracking-wider text-2xl placeholder:text-xl focus:outline-0 sm:2/3"
           onChange={handleInput}
           onKeyDown={enterKeyPressed}
           type="search"

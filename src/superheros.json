@@ -24,12 +24,12 @@
     {
     "id": 1,
     "name": "Spider-Man",
-    "img": "src/assets/Spiderman.png",
+    "img": "src/assets/Spiderman_Hero.png",
     "real_name": "Peter Benjamin Parker",
     "description": "Peter Parker was a shy, intelligent high school student living in Queens, New York. While attending a science demonstration, he was bitten by a radioactive spider. The bite gave him superhuman abilities, including enhanced strength, speed, agility, and the ability to cling to walls. Initially, Peter used his powers for personal gain, but after his Uncle Ben was killed by a thief Peter had earlier failed to stop, he learned a harsh lesson: \"With great power comes great responsibility.\" This motto would define his journey as Spider-Man.",
     "info": {
         "publisher": "Marvel",
-        "creators": ["Stan Lee", "Steve Dikto"],
+        "creators": "Stan Lee & Steve Dikto",
         "created": "October 1962",
         "first_appearance": "Amazing Fantasy #15",
         "first_appearance_link": "https://www.marvel.com/comics/issue/16926/amazing_fantasy_1962_15",
@@ -53,7 +53,7 @@
     "description": "Wolverine is a fierce and resilient mutant known for his animal-like senses, enhanced strength, and powerful healing factor. Born James Howlett, but often called Logan, he is best recognized for his adamantium-coated skeleton and retractable claws, which make him nearly unstoppable in battle. A longtime member of the X-Men, Wolverine struggles with his violent nature and mysterious past, often walking the line between hero and anti-hero. Despite his rough exterior, he’s deeply loyal and driven by a strong moral code.",
     "info": {
         "publisher": "Marvel",
-        "creators": ["Len Wein", "Roy Thomas", "John Romita", "Herb Trimpe"],
+        "creators": "Len Wein, Roy Thomas, John Romita, & Herb Trimpe",
         "created": "October 1974",
         "first_appearance": "The Incredible Hulk #180",
         "first_appearance_link": "https://www.marvel.com/comics/issue/16926/amazing_fantasy_1962_15",
@@ -75,7 +75,7 @@
     "description": "Thor is the Norse God of Thunder and a powerful superhero in the Marvel Universe. Wielding the enchanted hammer Mjolnir, Thor commands lightning and storms, and possesses immense strength, endurance, and the ability to fly. As the son of Odin, king of Asgard, and a member of the Avengers, Thor defends both Earth and the Nine Realms from powerful threats. Though once proud and impulsive, he has grown into a wise and noble warrior, guided by a deep sense of honor and responsibility.",
     "info": {
         "publisher": "Marvel",
-        "creators": ["Stan Lee", "Jack Kirby"],
+        "creators": "Stan Lee & Jack Kirby",
         "created": "August 1962",
         "first_appearance": "Journey into Mystery #83",
         "first_appearance_link": "https://www.marvel.com/comics/issue/16926/amazing_fantasy_1962_15",
@@ -98,7 +98,7 @@
     "description": "Cyclops, real name Scott Summers, is a founding member and longtime leader of the X-Men. Known for his powerful optic blasts—energy beams that shoot uncontrollably from his eyes—Cyclops must wear a special ruby-quartz visor to control his power. Calm, disciplined, and deeply committed to Charles Xavier's dream of peaceful coexistence between humans and mutants, Cyclops is a natural tactician and often acts as the team's field commander. Though sometimes seen as strict or emotionally distant, he carries the weight of leadership with unwavering dedication.",
     "info": {
         "publisher": "Marvel",
-        "creators": ["Stan Lee", "Jack Kirby"],
+        "creators": "Stan Lee & Jack Kirby",
         "created": "September 1933",
         "first_appearance": "The X-Men #1",
         "first_appearance_link": "https://www.marvel.com/comics/issue/16926/amazing_fantasy_1962_15",
@@ -120,7 +120,7 @@
     "description": "Iron Man, real name Tony Stark, is a genius billionaire, inventor, and superhero who fights evil in a high-tech suit of armor. After being injured and captured by terrorists, Tony built the first Iron Man suit to escape and later refined it into a powerful weapon for justice. As the owner of Stark Industries, he uses his vast resources and intellect to protect the world. A founding member of the Avengers, Iron Man is known for his quick wit, sharp mind, and evolving journey from self-centered arms dealer to selfless hero.",
     "info": {
         "publisher": "Marvel",
-        "creators": ["Stan Lee", "Jack Kirby", "Don Heck", "Larry Lieber"],
+        "creators": "Stan Lee, Jack Kirby, Don Heck, & Larry Lieber",
         "created": "March 1963",
         "first_appearance": "Tales of Suspense #39",
         "first_appearance_link": "https://www.marvel.com/comics/issue/16926/amazing_fantasy_1962_15",
@@ -143,7 +143,7 @@
     "description": "Behind the mask is Bruce Wayne, a billionaire philanthropist and owner of Wayne Enterprises. After witnessing the murder of his parents as a child, Bruce dedicated his life to fighting crime in Gotham City. Unlike most superheroes, Batman has no superpowers—he relies on peak physical conditioning, masterful detective skills, advanced technology, and martial arts training. Known as the Dark Knight or World’s Greatest Detective, Batman strikes fear into the hearts of criminals and often works alongside allies like Robin, Batgirl, and the Justice League.",
     "info": {
         "publisher": "DC",
-        "creators": ["Bob Kane", "Bill Finger"],
+        "creators": "Bob Kane & Bill Finger",
         "created": "May 1939",
         "first_appearance": "Detective Comics #27",
         "first_appearance_link": "https://www.dc.com/comics/detective-comics-2011/detective-comics-27",
