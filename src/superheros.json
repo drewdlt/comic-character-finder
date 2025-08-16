@@ -49,8 +49,9 @@
     {
     "id": 2,
     "name": "Wolverine",
-    "img": "src/assets/Wolverine.png",
+    "img": "src/assets/Wolverine-Hero.png",
     "real_name": "James Howlett",
+    "bio": "A mutant with an unstoppable healing power, adamantium metal claws and no-nonsense attitude makes the man called Logan, one of the most ferocious heroes in the universe.",
     "description": "Wolverine is a fierce and resilient mutant known for his animal-like senses, enhanced strength, and powerful healing factor. Born James Howlett, but often called Logan, he is best recognized for his adamantium-coated skeleton and retractable claws, which make him nearly unstoppable in battle. A longtime member of the X-Men, Wolverine struggles with his violent nature and mysterious past, often walking the line between hero and anti-hero. Despite his rough exterior, he’s deeply loyal and driven by a strong moral code.",
     "info": {
         "publisher": "Marvel",
@@ -94,8 +95,9 @@
     {
     "id": 4,
     "name": "Cyclops",
-    "img": "src/assets/Cyclops.png",
+    "img": "src/assets/Cyclops-Hero.png",
     "real_name": "Scott Summers",
+    "bio": "From a stoic leader of the X-Men to a hardened radical, Cyclops is always true to mutantkind and determined to make Xavier’s dream of peace between mutants and humans a reality.",
     "description": "Cyclops, real name Scott Summers, is a founding member and longtime leader of the X-Men. Known for his powerful optic blasts—energy beams that shoot uncontrollably from his eyes—Cyclops must wear a special ruby-quartz visor to control his power. Calm, disciplined, and deeply committed to Charles Xavier's dream of peaceful coexistence between humans and mutants, Cyclops is a natural tactician and often acts as the team's field commander. Though sometimes seen as strict or emotionally distant, he carries the weight of leadership with unwavering dedication.",
     "info": {
         "publisher": "Marvel",
