@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router"
 import HomePage from "./pages/HomePage"
 import WritersPage from "./pages/WritersPage"
-import CharacterLookUpPage from "./pages/ChracterLookUpPage"
+import CharacterLookUpPage from "./pages/CharacterLookUpPage"
 
 function App() {
 

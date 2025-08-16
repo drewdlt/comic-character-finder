@@ -26,6 +26,7 @@
     "name": "Spider-Man",
     "img": "src/assets/Spiderman_Hero.png",
     "real_name": "Peter Benjamin Parker",
+    "bio": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
     "description": "Peter Parker was a shy, intelligent high school student living in Queens, New York. While attending a science demonstration, he was bitten by a radioactive spider. The bite gave him superhuman abilities, including enhanced strength, speed, agility, and the ability to cling to walls. Initially, Peter used his powers for personal gain, but after his Uncle Ben was killed by a thief Peter had earlier failed to stop, he learned a harsh lesson: \"With great power comes great responsibility.\" This motto would define his journey as Spider-Man.",
     "info": {
         "publisher": "Marvel",
