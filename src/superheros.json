@@ -24,11 +24,11 @@
     {
     "id": 1,
     "name": "Spider-Man",
-    "img": "src/assets/Spiderman_Hero.png",
+    "img": "src/assets/Spiderman-Hero.png",
     "svg_img": "src/assets/Spiderman.png",
     "real_name": "Peter Benjamin Parker",
     "bio": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
-    "description": "Peter Parker was a shy, intelligent high school student living in Queens, New York. While attending a science demonstration, he was bitten by a radioactive spider. The bite gave him superhuman abilities, including enhanced strength, speed, agility, and the ability to cling to walls.Initially, Peter used his powers for personal gain, but after his Uncle Ben was killed by a thief Peter had earlier failed to stop, he learned a harsh lesson: \"With great power comes great responsibility.\" This motto would define his journey as Spider-Man.",
+    "description": "With spider-like abilities, science genius Peter Parker swings above it all as Spider-Man, costumed champion of the innocent who lives and fights with the wisdom of “With Great Power Comes Great Responsibility!”",
     "info": {
         "publisher": "Marvel",
         "creators": "Stan Lee & Steve Dikto",
@@ -52,15 +52,15 @@
     "name": "Wolverine",
     "img": "src/assets/Wolverine-Hero.png",
     "svg_img": "src/assets/Wolverine.png",
-    "real_name": "James Howlett",
+    "real_name": "James Howlett / Logan",
     "bio": "A mutant with an unstoppable healing power, adamantium metal claws and no-nonsense attitude makes the man called Logan, one of the most ferocious heroes in the universe.",
-    "description": "Wolverine is a fierce and resilient mutant known for his animal-like senses, enhanced strength, and powerful healing factor. Born James Howlett, but often called Logan, he is best recognized for his adamantium-coated skeleton and retractable claws, which make him nearly unstoppable in battle. A longtime member of the X-Men, Wolverine struggles with his violent nature and mysterious past, often walking the line between hero and anti-hero. Despite his rough exterior, he’s deeply loyal and driven by a strong moral code.",
+    "description": "The man named Logan lives numerous lifetimes as a result of his regenerative mutation before losing his memories during a cruel experiment.",
     "info": {
         "publisher": "Marvel",
         "creators": "Len Wein, Roy Thomas, John Romita, & Herb Trimpe",
         "created": "October 1974",
         "first_appearance": "The Incredible Hulk #180",
-        "first_appearance_link": "https://www.marvel.com/comics/issue/16926/amazing_fantasy_1962_15",
+        "first_appearance_link": "https://www.marvel.com/comics/issue/8991/incredible_hulk_1962_180",
         "total_appearances": 16604
     },
     "powers": [
@@ -74,15 +74,17 @@
     {
     "id": 3,
     "name": "Thor",
-    "img": "src/assets/Thor.png",
+    "img": "src/assets/Thor-Hero.png",
+    "svg_img": "src/assets/Thor.png",
     "real_name": "Thor Odinson",
-    "description": "Thor is the Norse God of Thunder and a powerful superhero in the Marvel Universe. Wielding the enchanted hammer Mjolnir, Thor commands lightning and storms, and possesses immense strength, endurance, and the ability to fly. As the son of Odin, king of Asgard, and a member of the Avengers, Thor defends both Earth and the Nine Realms from powerful threats. Though once proud and impulsive, he has grown into a wise and noble warrior, guided by a deep sense of honor and responsibility.",
+    "bio": "The son of Odin uses his mighty abilities as the God of Thunder to protect his home Asgard and planet Earth alike.",
+    "description": "The very skies tremble in his presence. He commands the mystical hammer Mjolnir to protect Asgard and Earth. He is the son of Odin, Prince of Asgard. He is the God of Thunder. He is Thor.",
     "info": {
         "publisher": "Marvel",
         "creators": "Stan Lee & Jack Kirby",
         "created": "August 1962",
         "first_appearance": "Journey into Mystery #83",
-        "first_appearance_link": "https://www.marvel.com/comics/issue/16926/amazing_fantasy_1962_15",
+        "first_appearance_link": "https://www.marvel.com/comics/issue/9779/journey_into_mystery_1952_83",
         "total_appearances": 8855
     },
     "powers": [
@@ -101,13 +103,13 @@
     "svg_img": "src/assets/Cyclops.png",
     "real_name": "Scott Summers",
     "bio": "From a stoic leader of the X-Men to a hardened radical, Cyclops is always true to mutantkind and determined to make Xavier’s dream of peace between mutants and humans a reality.",
-    "description": "Cyclops, real name Scott Summers, is a founding member and longtime leader of the X-Men. Known for his powerful optic blasts—energy beams that shoot uncontrollably from his eyes—Cyclops must wear a special ruby-quartz visor to control his power. Calm, disciplined, and deeply committed to Charles Xavier's dream of peaceful coexistence between humans and mutants, Cyclops is a natural tactician and often acts as the team's field commander. Though sometimes seen as strict or emotionally distant, he carries the weight of leadership with unwavering dedication.",
+    "description": "Whether leading the X-Men or X-Factor, Cyclops keeps his teammates and mutantkind alive by doing what’s necessary.",
     "info": {
         "publisher": "Marvel",
         "creators": "Stan Lee & Jack Kirby",
         "created": "September 1933",
         "first_appearance": "The X-Men #1",
-        "first_appearance_link": "https://www.marvel.com/comics/issue/16926/amazing_fantasy_1962_15",
+        "first_appearance_link": "https://www.marvel.com/comics/issue/12413/uncanny_x-men_1963_1",
         "total_appearances": 11501
     },
     "powers": [
@@ -121,15 +123,17 @@
     {
     "id": 5,
     "name": "Iron Man",
-    "img": "src/assets/IronMan.png",
+    "img": "src/assets/IronMan-Hero.png",
+    "svg_img": "src/assets/IronMan.png",
     "real_name": "Anthony Edward Stark",
-    "description": "Iron Man, real name Tony Stark, is a genius billionaire, inventor, and superhero who fights evil in a high-tech suit of armor. After being injured and captured by terrorists, Tony built the first Iron Man suit to escape and later refined it into a powerful weapon for justice. As the owner of Stark Industries, he uses his vast resources and intellect to protect the world. A founding member of the Avengers, Iron Man is known for his quick wit, sharp mind, and evolving journey from self-centered arms dealer to selfless hero.",
+    "bio": "Genius. Billionaire. Philanthropist. Tony Stark's confidence is only matched by his high-flying abilities as the hero called Iron Man.",
+    "description": "Having created a wondrous suit of armor to keep himself alive, Tony has revised it dozens of times, each version with increased capabilities, faster operation, reduced energy usage, and adaptability to the greatest threats the universe has to offer.",
     "info": {
         "publisher": "Marvel",
         "creators": "Stan Lee, Jack Kirby, Don Heck, & Larry Lieber",
         "created": "March 1963",
         "first_appearance": "Tales of Suspense #39",
-        "first_appearance_link": "https://www.marvel.com/comics/issue/16926/amazing_fantasy_1962_15",
+        "first_appearance_link": "https://www.marvel.com/comics/issue/11280/tales_of_suspense_1959_39",
         "total_appearances": 11544
     },
     "powers": [
@@ -144,9 +148,11 @@
     {
     "id": 6,
     "name": "Batman",
-    "img": "src/assets/Batman.png",
+    "img": "src/assets/Batman-Hero.png",
+    "svg_img": "src/assets/Batman.png",
     "real_name": "Bruce Wayne",
-    "description": "Behind the mask is Bruce Wayne, a billionaire philanthropist and owner of Wayne Enterprises. After witnessing the murder of his parents as a child, Bruce dedicated his life to fighting crime in Gotham City. Unlike most superheroes, Batman has no superpowers—he relies on peak physical conditioning, masterful detective skills, advanced technology, and martial arts training. Known as the Dark Knight or World’s Greatest Detective, Batman strikes fear into the hearts of criminals and often works alongside allies like Robin, Batgirl, and the Justice League.",
+    "bio": "He is vengeance. He is the night. He is Batman.",
+    "description": "Batman has dedicated his life to an endless crusade, a war on all criminals in the name of his murdered parents, who were taken from him when he was just a child. Since that tragic night, he has trained his body and mind to near physical perfection to be a self-made Super Hero. He's developed an arsenal of technology that would put most armies to shame.",
     "info": {
         "publisher": "DC",
         "creators": "Bob Kane & Bill Finger",

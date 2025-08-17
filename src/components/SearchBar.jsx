@@ -47,7 +47,7 @@ function SearchBar() {
         />
         <button className="border-b-2 p-2" onClick={findHero}>
           <img
-            src="search_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg"
+            src="search_24dp_000000_FILL0_wght400_GRAD0_opsz24.svg"
             alt=""
             className="w-8 transition delay-0 duration-300 ease-in-out hover:-translate-y-1"
           />

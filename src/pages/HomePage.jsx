@@ -6,7 +6,7 @@ function HomePage() {
     <>
       <div className="flex h-screen w-full flex-col items-center justify-between bg-[url('hero-img.jpg')] bg-cover bg-center bg-no-repeat md:justify-normal">
         <Navbar />
-        <div className="mb-3 flex w-11/12 flex-col rounded-xl bg-neutral-800/40 px-1 py-2 md:relative md:mt-14 md:ml-[10%] md:w-1/4 md:gap-2 md:self-start lg:gap-3 text-white">
+        <div className="mb-3 flex w-11/12 flex-col rounded-xl bg-black/40 px-1 py-2 md:relative md:mt-14 md:ml-[10%] md:w-1/4 md:gap-2 md:self-start lg:gap-3 text-white">
           <p className="mb-2 text-center text-2xl font-bold md:pt-3 md:text-3xl lg:text-5xl">
             Unmask the Legends. Discover the Stories.
           </p>
