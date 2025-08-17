@@ -6,7 +6,7 @@ function HomePage() {
     <>
       <div className="flex h-screen w-full flex-col items-center justify-between bg-[url('hero-img.jpg')] bg-cover bg-center bg-no-repeat md:justify-normal">
         <Navbar />
-        <div className="mb-3 flex w-11/12 flex-col rounded-xl bg-black/40 px-1 py-2 md:relative md:mt-14 md:ml-[10%] md:w-1/4 md:gap-2 md:self-start lg:gap-3">
+        <div className="mb-3 flex w-11/12 flex-col rounded-xl bg-neutral-800/40 px-1 py-2 md:relative md:mt-14 md:ml-[10%] md:w-1/4 md:gap-2 md:self-start lg:gap-3 text-white">
           <p className="mb-2 text-center text-2xl font-bold md:pt-3 md:text-3xl lg:text-5xl">
             Unmask the Legends. Discover the Stories.
           </p>
@@ -16,7 +16,7 @@ function HomePage() {
             powers, first appearances, and more.
           </p>
           <NavLink
-            to="writers"
+            to="lookup"
             className="rounded-5 mt-3 mb-2 w-auto self-center bg-blue-700 px-2 py-1 font-bold transition delay-0 duration-200 ease-in-out hover:-translate-y-1 hover:scale-110 hover:bg-blue-800"
             style={{ textDecoration: "none" }}
           >

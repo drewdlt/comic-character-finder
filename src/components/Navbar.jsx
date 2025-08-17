@@ -10,9 +10,9 @@ function Navbar() {
 
   return (
     <>
-      <nav className="mx-auto mt-3 flex w-11/12 flex-wrap content-center justify-between rounded-4xl bg-black/40 px-3 py-3 tracking-wider backdrop-opacity-50 lg:w-3/4">
+      <nav className="mx-auto mt-3 flex w-11/12 flex-wrap content-center justify-between rounded-4xl bg-neutral-800 px-3 py-3 tracking-wider backdrop-opacity-50 lg:w-3/4">
         <NavLink
-          className="text-2xl font-bold text-white"
+          className="self-center text-2xl font-bold text-white"
           style={{ textDecoration: "none" }}
         >
           Excelsior
@@ -65,7 +65,7 @@ function Navbar() {
               Home
             </NavLink>
             <NavLink
-              to=""
+              to="lookup"
               className="w-full border-b-1 py-1.5 text-center text-2xl text-white"
               style={{ textDecoration: "none" }}
             >
